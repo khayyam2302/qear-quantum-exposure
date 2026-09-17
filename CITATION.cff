@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "QEAR: Quantum Exposure Assessment and Ranking of Lightweight Authentication Protocols (analysis code)"
+authors:
+  - family-names: Khan
+    given-names: Muhammad Asghar
+    affiliation: "Prince Mohammad Bin Fahd University"
+    email: mkhan4@pmu.edu.sa
+version: 1.0.0
+date-released: 2026-09-17
+license: MIT
+repository-code: "https://github.com/khayyam2302/qear-quantum-exposure"
